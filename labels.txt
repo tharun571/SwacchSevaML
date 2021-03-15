@@ -1,0 +1,3 @@
+0 Clean
+1 Garbage
+2 Drainage
